@@ -1,3 +1,4 @@
+#Day 1: Band Name Generator 
 # create a greeting
 print("Welcome to the New Band Name Generator")
 #Users hometown
